@@ -4,7 +4,7 @@ import sys
 
 cap = c.VideoCapture(0)
 
-vid = c.VideoCapture('pup.mp4')
+vid = c.VideoCapture('bball.mp4')
 
 sucess, ref_img = cap.read()
 flag = 0
